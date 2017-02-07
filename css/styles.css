@@ -1,0 +1,21 @@
+img {
+  width: 35%;
+}
+
+body {
+  text-align: center;
+  color: red;
+  font-family: sans-serif;
+  background-color: black;
+}
+
+a {
+  color: skyblue;
+  font-size: 30px;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+  li::before { content: "\2022 " }
+}

@@ -24,7 +24,7 @@ _{Buzz}_
 
 ## Support and contact details
 
-_{Don't contact us in case of emergency. All users utilize the website and resort at their own risk. This is your warning.}_
+_{Don't contact us in case of emergency. All users utilize the website and resort at their own risk. This is your warning. kstrom2017.github.io/resort-website/ OR slaughtr.github.io/resort-website/}_
 
 ## Technologies Used
 
